@@ -1,5 +1,3 @@
-https://codesandbox.io/s/cool-meadow-cqwyrd?file=/index.html
-# Product_Preveiw_Card_Chanel
 ## Built with:
 HTML5
 CSS
