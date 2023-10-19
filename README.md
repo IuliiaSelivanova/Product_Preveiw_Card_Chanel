@@ -7,3 +7,7 @@ CSS
 ### Mobile version
 
 ![image](https://github.com/IuliiaSelivanova/Product_Preveiw_Card_Chanel/assets/144701402/cba968bd-babb-41c6-854f-3167e92ce027)
+
+
+Link to the site:
+https://iuliiaselivanova.github.io/Product_Preveiw_Card_Chanel/
