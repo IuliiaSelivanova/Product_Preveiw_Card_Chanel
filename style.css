@@ -1,6 +1,5 @@
 body {
   background: hsl(30, 38%, 92%);
-
 }
 
 .card {
@@ -119,14 +118,14 @@ button:hover{
   
   .desktop-image{
     display: block;
-    width: 70%;
-    height: 100%;
+    width: 500px;
+    height: 500px;
     border-radius: 10px 0 0 10px;
   }
   .text{
     display: inline-block;
-    width: 70%;
-    /*height: 100%;*/
+    width: 500px;
+    height: 500px;
     border-radius: 0 10px 10px 0;
   }
   .title {
